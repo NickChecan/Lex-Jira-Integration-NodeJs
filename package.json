@@ -1,0 +1,15 @@
+{
+  "name": "lex-to-jira",
+  "version": "1.0.0",
+  "description": "Control Jira activities through Amazon Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Checan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "promise": "^8.1.0"
+  }
+}
